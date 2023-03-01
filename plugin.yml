@@ -1,0 +1,6 @@
+name: Drop
+main: dist/main.js
+version: 1.0.0
+api: ['1.0.14']
+author: AdiPol1359
+description: Simple drop plugin written in TypeScript
